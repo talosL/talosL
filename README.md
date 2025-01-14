@@ -17,7 +17,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018eeaf3-bfcc-49df-9c15-989a8561d5f8.svg)](https://wakatime.com/@018eeaf3-bfcc-49df-9c15-989a8561d5f8)
+[![Coding time tracker](https://wakatime.com/badge/github/wakatime/wakatime-blog.svg)](https://wakatime.com/@018eeaf3-bfcc-49df-9c15-989a8561d5f8)
 
 <!-- Intro  -->
 <h3 align="center">
